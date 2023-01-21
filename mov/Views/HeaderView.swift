@@ -10,11 +10,13 @@ import SwiftUI
 struct HeaderView: View {
     var body: some View {
         HStack{
-            Text("My Stocks")
-                .font(.largeTitle)
-                .bold()
-                .foregroundColor(Color.darkBlue)
-            
+            Button(action: {
+                print("tapped search")
+            }){
+                Image(systemName: "person.crop.circle.fill")
+                    .accentColor(Color.darkBlue)
+                    .font(.system(size: 40))
+            }
             Spacer()
             
             Button(action: {

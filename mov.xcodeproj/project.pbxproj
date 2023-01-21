@@ -17,6 +17,7 @@
 		3922551B297C64E4000DB5FA /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922551A297C64E4000DB5FA /* HeaderView.swift */; };
 		3922551E297C6A76000DB5FA /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922551D297C6A76000DB5FA /* Extensions.swift */; };
 		39225520297C6F90000DB5FA /* PortfolioCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3922551F297C6F90000DB5FA /* PortfolioCard.swift */; };
+		39BEACBC297C8314007E3E03 /* Assets.swift in Sources */ = {isa = PBXBuildFile; fileRef = 39BEACBB297C8314007E3E03 /* Assets.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,6 +51,7 @@
 		3922551A297C64E4000DB5FA /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
 		3922551D297C6A76000DB5FA /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		3922551F297C6F90000DB5FA /* PortfolioCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PortfolioCard.swift; sourceTree = "<group>"; };
+		39BEACBB297C8314007E3E03 /* Assets.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Assets.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -140,6 +142,7 @@
 				392254F1297C6337000DB5FA /* ContentView.swift */,
 				3922551A297C64E4000DB5FA /* HeaderView.swift */,
 				3922551F297C6F90000DB5FA /* PortfolioCard.swift */,
+				39BEACBB297C8314007E3E03 /* Assets.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -284,6 +287,7 @@
 			files = (
 				39225520297C6F90000DB5FA /* PortfolioCard.swift in Sources */,
 				392254F2297C6337000DB5FA /* ContentView.swift in Sources */,
+				39BEACBC297C8314007E3E03 /* Assets.swift in Sources */,
 				3922551B297C64E4000DB5FA /* HeaderView.swift in Sources */,
 				392254F0297C6337000DB5FA /* movApp.swift in Sources */,
 				3922551E297C6A76000DB5FA /* Extensions.swift in Sources */,

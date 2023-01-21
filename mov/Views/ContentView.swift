@@ -12,6 +12,11 @@ struct ContentView: View {
         VStack {
             HeaderView()
             PortfolioCard()
+            Assets()
+            Text("WatchList")
+                .font(.title2)
+                .bold()
+                .foregroundColor(Color.darkBlue)
             Spacer()
         }
         .padding()
